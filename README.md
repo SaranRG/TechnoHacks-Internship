@@ -1,4 +1,4 @@
-##TechnoHacks-Cybersecurity
+TechnoHacks-Cybersecurity & Ethical Hacking
 
 Here you can find all task for Technohacks Internship. Check out Here!
 
