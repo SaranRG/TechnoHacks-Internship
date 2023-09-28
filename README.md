@@ -1,6 +1,6 @@
 TechnoHacks-Cybersecurity & Ethical Hacking
 
-Here you can find all task for Technohacks Internship. Check out Here!
+Here you can find my tasks for Technohacks Internship. Check out Here!
 
 Task 1 : https://www.linkedin.com/posts/saran-r-a85606224_task1-activity-7113035575510650881-2urp?utm_source=share&utm_medium=member_desktop
 
